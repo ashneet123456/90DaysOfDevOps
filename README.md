@@ -7,7 +7,7 @@ This repository is designed to help you **build real DevOps skills step by step 
 
 This is not a theory-heavy course.  
 This is a **discipline + execution challenge**.
-
+this is a very goo parctice
 ---
 
 ## 🎯 What is #90DaysOfDevOps?
